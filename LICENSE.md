@@ -1,7 +1,3 @@
-**The neighbourhood web - an open sketch** (c) 2026 Laura Richards, Idea Junkies Studio.
-
-Suggested attribution: "The neighbourhood web" by Laura Richards (Idea Junkies Studio, 2026), licensed under CC BY 4.0.
-
 Attribution 4.0 International
 
 =======================================================================
