@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "Example Kitchen",
+  "description": "Slow cooking, allotment vegetables, and family recipes from the North East.",
+  "neighbourhood": "food",
+  "feed": "https://example.com/feed.xml",
+  "language": "en-GB",
+  "terms": {
+    "indexing": "allowed",
+    "retrieval": "allowed-with-attribution",
+    "training": "by-arrangement",
+    "contact": "licensing@example.com"
+  },
+  "exclude_indexers": []
+}
