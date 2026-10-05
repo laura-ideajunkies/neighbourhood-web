@@ -64,3 +64,9 @@ GeoCities neighbourhoods and Community Leaders; webrings; RSS and OPML; robots.t
 ## What this is not
 
 Not a platform, not a product, not a token, not a company, and not a roadmap commitment by the author. It is a dated, attributable statement of an idea, published so that it exists as prior art and so that better-qualified people can improve it or demolish it.
+
+---
+
+(c) 2026 Laura Richards, Idea Junkies Studio. Licensed under [CC BY 4.0](LICENSE.md).
+
+Suggested attribution: "The neighbourhood web" by Laura Richards (Idea Junkies Studio, 2026), licensed under CC BY 4.0.
