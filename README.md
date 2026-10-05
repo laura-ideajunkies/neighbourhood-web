@@ -4,7 +4,7 @@
 
 Status: thought experiment, version 0.1
 Author: Laura Richards, Idea Junkies Studio
-First published: July 2026
+First published: October 2026
 Licence: CC BY 4.0 (see LICENSE)
 Companion essay: [link to Frontier Philosophies piece - added on publish]
 
